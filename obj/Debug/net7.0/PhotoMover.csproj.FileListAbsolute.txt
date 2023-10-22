@@ -1,0 +1,14 @@
+C:\Development\PhotoMover\bin\Debug\net7.0\PhotoMover.exe
+C:\Development\PhotoMover\bin\Debug\net7.0\PhotoMover.deps.json
+C:\Development\PhotoMover\bin\Debug\net7.0\PhotoMover.runtimeconfig.json
+C:\Development\PhotoMover\bin\Debug\net7.0\PhotoMover.dll
+C:\Development\PhotoMover\bin\Debug\net7.0\PhotoMover.pdb
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.AssemblyInfoInputs.cache
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.AssemblyInfo.cs
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.csproj.CoreCompileInputs.cache
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.dll
+C:\Development\PhotoMover\obj\Debug\net7.0\refint\PhotoMover.dll
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.pdb
+C:\Development\PhotoMover\obj\Debug\net7.0\PhotoMover.genruntimeconfig.cache
+C:\Development\PhotoMover\obj\Debug\net7.0\ref\PhotoMover.dll
